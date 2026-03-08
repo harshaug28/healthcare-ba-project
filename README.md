@@ -168,8 +168,8 @@ jupyter notebook analysis/healthcare_analysis.ipynb
 
 **Harsh Patel**  
 Business Analyst | Data Analyst  
-📧 harsh@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/harshaug28)  
+📧 harshaug28@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/harshpatel2882000/)  
 🐙 [GitHub](https://github.com/harshaug28)
 
 ---
